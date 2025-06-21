@@ -1,4 +1,4 @@
-# Running PyTorch Moedels on Jetson Nano
+# Running PyTorch Models on Jetson Nano
 
 - **2023-2 고급 컴퓨터 구조 프로젝트** 
 - **담당 교수:** 이정근 교수님
